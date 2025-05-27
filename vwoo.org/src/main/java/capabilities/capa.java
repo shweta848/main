@@ -13,7 +13,7 @@ public class capa {
 		PageFactory.initElements(driver, this);
 	}
 	
-	public void capab() {
+	public void capab() {    change here important here 
 		Capa.click();
 	}
 
