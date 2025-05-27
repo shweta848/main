@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-09-13T01:01:54 GMT-05:00" name="Default suite" finished-at="2024-09-13T01:03:14 GMT-05:00" duration-ms="79520">
+    <groups>
+    </groups>
+    <test started-at="2024-09-13T01:01:54 GMT-05:00" name="Default test" finished-at="2024-09-13T01:03:14 GMT-05:00" duration-ms="79520">
+      <class name="test.ttest">
+        <test-method signature="browser()[pri:0, instance:test.ttest@5223e5ee]" started-at="2024-09-13T01:01:55 GMT-05:00" name="browser" finished-at="2024-09-13T01:03:14 GMT-05:00" duration-ms="79238" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browser -->
+      </class> <!-- test.ttest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
