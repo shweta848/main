@@ -13,7 +13,7 @@ public class ttest {
 
   		//WebDriver driver=new ChromeDriver();
   		WebDriver driver=new FirefoxDriver();
-  		driver.get("https://www.amazon.in");
+  		driver.get("https://www.amazon.in");change here
   	
 
           
